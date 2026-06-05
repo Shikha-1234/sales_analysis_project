@@ -25,6 +25,15 @@ This project analyzes the Sample Superstore dataset using Python and Pandas.
 9. Which region generated the highest sales?
 10. Which region generated the highest profit?
 
+## Key Findings
+
+- Technology generated the highest sales among all categories.
+- Technology was also the most profitable category.
+- Sales showed significant variation across months.
+- A small number of products contributed disproportionately to revenue.
+- Certain states generated negative overall profit despite having sales.
+- The West region generated the highest sales and profit.
+
 ## Visualizations
 
 - Sales by Category
