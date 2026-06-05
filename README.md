@@ -12,6 +12,31 @@ This project analyzes the Sample Superstore dataset using Python and Pandas.
 - Matplotlib
 - Jupyter Notebook
 
+## Dataset
+
+Sample Superstore Dataset
+
+Rows: 9,994
+Columns: 21
+
+Features include:
+- Sales
+- Profit
+- Category
+- Sub-Category
+- Region
+- State
+- Order Date
+
+## Project Structure
+
+sales_analysis_project/
+
+├── data
+├── notebook
+├── images
+└── README.md
+
 ## Business Questions Answered
 
 1. Which category generated the most sales?
