@@ -53,7 +53,7 @@ sales_analysis_project/
 ## Key Findings
 
 Revenue was concentrated among a relatively small set of products, suggesting opportunities for focused inventory planning.
-- Technology generated approximately ₹836K (or $836K in dataset units) in sales, making it the strongest revenue-driving category.
+- Technology generated approximately $836K in sales, making it the strongest revenue-driving category.
 - Technology also generated the highest profit, suggesting that investments in technology products may produce better returns than other categories.
 - A small number of products contributed disproportionately to revenue.
 - Several states recorded negative profits despite generating sales, indicating potential pricing, discounting, or operational issues.
