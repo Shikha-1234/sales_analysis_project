@@ -52,12 +52,13 @@ sales_analysis_project/
 
 ## Key Findings
 
-- Technology generated the highest sales among all categories.
-- Technology was also the most profitable category.
-- Sales showed significant variation across months.
+Revenue was concentrated among a relatively small set of products, suggesting opportunities for focused inventory planning.
+- Technology generated approximately ₹836K (or $836K in dataset units) in sales, making it the strongest revenue-driving category.
+- Technology also generated the highest profit, suggesting that investments in technology products may produce better returns than other categories.
 - A small number of products contributed disproportionately to revenue.
-- Certain states generated negative overall profit despite having sales.
-- The West region generated the highest sales and profit.
+- Several states recorded negative profits despite generating sales, indicating potential pricing, discounting, or operational issues.
+- The West region consistently outperformed other regions in both sales and profitability.
+- Sales showed significant variation across months.
 
 ## Visualizations
 
@@ -76,6 +77,16 @@ sales_analysis_project/
 - Sales by Region
 <img width="825" height="653" alt="Sales_by_region" src="https://github.com/user-attachments/assets/f31010b7-a33f-4286-b9f3-0650c8cbcd2d" />
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insight Generation
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
 ## Author
 
